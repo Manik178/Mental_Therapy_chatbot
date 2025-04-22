@@ -1,0 +1,6 @@
+PyPDF2 
+langchain 
+google-generativeai 
+python-dotenv 
+faiss-cpu
+pytorch
