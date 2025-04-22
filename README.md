@@ -69,7 +69,7 @@ Place your therapeutic PDF documents in the Lang_approach/src/doc_pdf directory.
 
 Run the Application:
 ```
-streamlit run Lang_approach/src/script.py
+streamlit run Lang_approach/src/app.py
 ```
 
 ## 🧪 Emotion Detection
