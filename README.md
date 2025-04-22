@@ -13,9 +13,9 @@ PDF Integration: Incorporate therapeutic materials from PDFs into the chatbot's 
 Emotion Detection: Analyze and respond to user emotions effectively.
 
 ## 🛠️ Tech Stack
-Frontend: Streamlit for an intuitive user interface.
+### Frontend: Streamlit for an intuitive user interface.
 
-Backend:
+### Backend:
 
 LangChain: Framework for building language model applications.
 
@@ -23,7 +23,7 @@ FAISS: Efficient similarity search and clustering of dense vectors.
 
 Google Generative AI: For generating embeddings and conversational responses.
 
-Data Processing:
+### Data Processing:
 
 PyPDF2: Extract text from PDF files.
 
