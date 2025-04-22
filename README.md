@@ -1,7 +1,7 @@
-🧠 Mental Therapy Chatbot
+# 🧠 Mental Therapy Chatbot
 A supportive mental health chatbot that leverages AI to provide empathetic, evidence-based responses. Built using LangChain, FAISS, and Google's Generative AI, it offers a ChatGPT-style interface with adjustable response depth and creativity.
 
-🌟 Features
+## 🌟 Features
 Conversational Interface: Engage in meaningful dialogues about mental health.
 
 Adjustable Response Depth: Tailor the depth of responses to your preference.
@@ -12,7 +12,7 @@ PDF Integration: Incorporate therapeutic materials from PDFs into the chatbot's 
 
 Emotion Detection: Analyze and respond to user emotions effectively.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Frontend: Streamlit for an intuitive user interface.
 
 Backend:
@@ -33,7 +33,7 @@ NumPy: Numerical computations.
 
 Environment Management: Python's venv and dotenv for virtual environments and environment variables.
 
-🚀 Getting Started
+## 🚀 Getting Started
 Prerequisites
 Python 3.10+
 
@@ -70,7 +70,9 @@ Place your therapeutic PDF documents in the Lang_approach/src/doc_pdf directory.
 Run the Application:
 ```
 streamlit run Lang_approach/src/script.py
-🧪 Emotion Detection
+'''
+
+## 🧪 Emotion Detection
 The repository includes an emotion-detection-final.ipynb notebook that demonstrates how to detect emotions from text inputs. It utilizes machine learning techniques to classify emotions, enhancing the chatbot's ability to respond empathetically.
 ```
 📁 Directory Structure
