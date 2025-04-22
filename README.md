@@ -70,11 +70,11 @@ Place your therapeutic PDF documents in the Lang_approach/src/doc_pdf directory.
 Run the Application:
 ```
 streamlit run Lang_approach/src/script.py
-'''
+```
 
 ## 🧪 Emotion Detection
 The repository includes an emotion-detection-final.ipynb notebook that demonstrates how to detect emotions from text inputs. It utilizes machine learning techniques to classify emotions, enhancing the chatbot's ability to respond empathetically.
-```
+
 📁 Directory Structure
 ```
 Mental_Therapy_chatbot/
